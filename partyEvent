@@ -1,0 +1,14 @@
+#include <iostream>
+#include <string>
+#include <list>
+#include <vector>
+#ifndef PARTYEVENT_H
+#define PARTYEVENT_H
+
+class partyEvent
+{
+private:
+public:
+
+};
+#endif
